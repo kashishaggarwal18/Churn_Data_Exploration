@@ -12,23 +12,23 @@ Key Steps
 
 ### 1. Data Preprocessing
 
-Loaded and cleaned the dataset.
+* Loaded and cleaned the dataset.
 
-Handled missing values and performed data transformations.
+* Handled missing values and performed data transformations.
 
-Encoded categorical variables for model compatibility.
+* Encoded categorical variables for model compatibility.
 
 ### 2. Exploratory Data Analysis (EDA)
 
-Visualized key variables to identify trends and relationships.
+* Visualized key variables to identify trends and relationships.
 
-Analyzed correlations between features and the target variable.
+* Analyzed correlations between features and the target variable.
 
 ### 3. Insights and Recommendations
 
-Identified significant predictors of churn.
+* Identified significant predictors of churn.
 
-Provided actionable insights to help reduce churn rates.
+* Provided actionable insights to help reduce churn rates.
 
 ## Tools and Libraries
 
