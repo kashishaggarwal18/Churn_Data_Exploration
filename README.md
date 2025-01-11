@@ -6,7 +6,7 @@ This project aims to analyze customer churn for a company, identifying patterns 
 
 ## Dataset
 
-The dataset used for this project includes customer information such as demographic details, account information, and service usage metrics. The target variable is Churn, indicating whether a customer has left the company.
+The dataset used for this project includes customer information such as customer details, account information, and service usage metrics. The target variable is Churn, indicating whether a customer has left the company.
 
 Key Steps
 
