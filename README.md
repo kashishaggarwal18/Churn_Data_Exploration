@@ -16,8 +16,6 @@ Key Steps
 
 * Handled missing values and performed data transformations.
 
-* Encoded categorical variables for model compatibility.
-
 ### 2. Exploratory Data Analysis (EDA)
 
 * Visualized key variables to identify trends and relationships.
