@@ -1,8 +1,6 @@
 # Churn_Data_Exploration
 
-## Churn Analysis Project
-
-### Project Overview
+## Project Overview
 
 This project aims to analyze customer churn for a company, identifying patterns and insights that can help reduce customer turnover. The analysis includes data preprocessing, exploratory data analysis (EDA), and model building to predict churn based on customer attributes.
 
